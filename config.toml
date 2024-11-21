@@ -85,7 +85,7 @@ weight = 5
 # default parameters
 [params]
 home = "Home"
-logo = "images/logo.png"
+logo = "images/OWC-logo.svg"
 # contact info
 phone = "559-299-9328"
 email = "office@olsonwagner.com"
