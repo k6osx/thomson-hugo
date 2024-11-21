@@ -1,0 +1,52 @@
+####################### banner ########################
+banner:
+  enable : true
+  title : "Olson Wagner Construction"
+  animated_text:
+    - "Commerical Metal Buildings."
+    - "Industrial Metal Buildings."
+    - "Utility Control Metal Buildings."
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, totam ipsa quia hic odit a sit laboriosam voluptatem in, blanditiis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, totam ipsa quia hic
+          odit a sit laboriosam voluptatem in, blanditiis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, totam ipsa quia hic
+          odit a sit laboriosam voluptatem in, blanditiis."
+
+###################### Portfolio ######################
+portfolio:
+  enable : true
+
+###################### Service ########################
+service:
+  enable : False
+  title : "Core Services."
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, totam ipsa quia hic
+          odit a sit laboriosam voluptatem in, blanditiis."
+  service_item:
+    # service item loop
+    - name : "Web Development"
+      icon : "ti-layout" #themify icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
+
+    # service item loop
+    - name : "Digital Marketing"
+      icon : "ti-announcement" #themify icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
+
+    # service item loop
+    - name : "Graphics Design"
+      icon : "ti-layers" #themify icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
+
+    # service item loop
+    - name : "Branding Design"
+      icon : "ti-anchor" #themify icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
+
+    # service item loop
+    - name : "Video Marketing"
+      icon : "ti-video-camera" #themify icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
+
+    # service item loop
+    - name : "App Design"
+      icon : "ti-android" #themify icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
