@@ -1,8 +1,8 @@
 ---
-title: "Business"
+title: "Auto Dealership Office"
 image: "images/portfolio/12.jpg"
-client: "Thomson"
-year: "2019"
+client: ""
+year: ""
 description: "This is meta description."
 category: "Commercial"
 project_url: "#"
