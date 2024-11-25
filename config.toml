@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://k6osx.github.io/thomson-hugo/"
+baseURL = "https://olsonwagner.com/"
 languageCode = "en-us"
 theme = "thomson-hugo"
 title = "Olson Wagner Construction"
