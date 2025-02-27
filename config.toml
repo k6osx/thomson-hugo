@@ -4,7 +4,7 @@ languageCode = "en-us"
 theme = "thomson-hugo"
 title = "Olson Wagner Construction"
 summaryLength = "10"
-paginate = 4
+pagination.pagerSize = 4
 
 # css plugins
 [[params.plugins.css]]
@@ -98,7 +98,7 @@ google_analitycs_id = ""
 # contact form action 
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "Copyright &copy; 2024 Olson Wagner Construction"
+copyright = "Copyright &copy; 2025 Olson Wagner Construction"
 
 # preloader
 [params.preloader]

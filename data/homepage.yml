@@ -1,6 +1,6 @@
 ####################### banner ########################
 banner:
-  enable : true
+  enable : true 
   title : "Olson Wagner Construction"
   animated_text:
     - "Commerical Metal Buildings."
